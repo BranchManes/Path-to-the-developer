@@ -1,7 +1,5 @@
 package Day16.Dz1;
 
-import Day16.Dz1.ArithmeticMeanOfNumbers;
-
 import java.io.File;
 
 public class Main {
